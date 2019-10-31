@@ -1,6 +1,6 @@
 # timestamp
 
-A Naive Timestamp Formatter Command
+A naive command line tool for format unix timestamp.
 
 ## Usage
 
@@ -18,5 +18,4 @@ SUBCOMMANDS:
     fmt
     help    Prints this message or the help of the given subcommand(s)
     now
-
 ```
