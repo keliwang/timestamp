@@ -2,6 +2,9 @@
 name = "timestamp-cli"
 version = "0.1.0"
 authors = ["Keli <root@keli.im>"]
+repository = "https://github.com/keliwang/timestamp-cli"
+description = "A naive command line tool for format unix timestamp"
+license = "MIT"
 edition = "2018"
 
 [dependencies]
