@@ -1,14 +1,14 @@
-# timestamp
+# timestamp-cli
 
 A naive command line tool for format unix timestamp.
 
 ## Usage
 
 ```
-timestamp 0.1.0
+timestamp-cli 0.1.0
 
 USAGE:
-    timestamp <SUBCOMMAND>
+    timestamp-cli <SUBCOMMAND>
 
 FLAGS:
     -h, --help       Prints help information

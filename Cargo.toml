@@ -1,5 +1,5 @@
 [package]
-name = "timestamp"
+name = "timestamp-cli"
 version = "0.1.0"
 authors = ["Keli <root@keli.im>"]
 edition = "2018"
